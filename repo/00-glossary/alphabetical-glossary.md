@@ -30,6 +30,7 @@ Technical terms collected during my cybersecurity learning journey.
   A collection of data stored on a computer under a specific name. A file can contain text, images, code, audio, video, or other types of information.
 - **folder** =
   A container used to organize and store files on a computer. A folder can also contain other folders, allowing information to be arranged in a structured way.
+  
 ## G
 - **gateway** =
   A device or network point that connects one network to another. In many local networks, the gateway is the router that allows devices to reach the internet or other external networks.
@@ -77,7 +78,7 @@ Technical terms collected during my cybersecurity learning journey.
 - **path** =
   The location of a file or folder within a file system. A path shows the route used to reach a specific item on a computer, starting from a main directory or root.
 - **pipeline** =
-  A sequence of connected steps used to process data, perform tasks, or move work from one stage to another. In computing, a pipeline often describes an automated workflow where the output of one step becomes the input of the next.
+  A sequence of connected steps used to process data, perform tasks, or move work from one stage to another. In computing, a pipeline often describes an automated workflow where the output of one step becomes the input of the   next.
 - **policy** =
   A set of rules, guidelines, or principles that define how actions, decisions, or behavior should be managed. In computing and cybersecurity, a policy often establishes security requirements, access rules, or operational standards.
 - **pull** =
@@ -90,6 +91,8 @@ Technical terms collected during my cybersecurity learning journey.
   The duplication of components, data, or systems to increase reliability and reduce the risk of failure. In computing and cybersecurity, redundancy is often used to ensure that a service or resource remains available if one part stops working.
 - **router** =
   A network device that forwards data between different networks. It is commonly used to connect a local network to the internet and to direct traffic to the correct destination.
+- **runtime** =
+  The period during which a program is running, or the environment that executes the program. In computing, runtime can refer to the resources, conditions, and system support needed for software to operate.
 
 ## S
 - **server** =
