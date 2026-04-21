@@ -131,8 +131,8 @@ sudo dhclient -r eth0
 
 Tested in a VirtualBox lab with two Windows Server 2022 virtual machines:
 
-- **DC1** — DHCP server, static IP `10.0.0.1` on the internal LAN adapter
-- **DC2** — DHCP client, receives IP automatically from DC1
+- **DC1** - DHCP server, static IP `10.0.0.1` on the internal LAN adapter
+- **DC2** - DHCP client, receives IP automatically from DC1
 
 ### Scope configured in the lab
 
