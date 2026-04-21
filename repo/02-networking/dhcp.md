@@ -1,4 +1,4 @@
-# DHCP — Dynamic Host Configuration Protocol
+# DHCP - Dynamic Host Configuration Protocol
 
 ## What It Is
 
