@@ -16,7 +16,7 @@ It is one of the first services configured in any network infrastructure, whethe
 
 ---
 
-## How It Works — The DORA Process
+## How It Works - The DORA Process
 
 When a device connects to a network, DHCP follows a four step process known as **DORA**:
 
@@ -64,10 +64,10 @@ A reservation permanently binds a specific IP address to a specific device, iden
 ### Options
 DHCP options are additional configuration parameters distributed alongside the IP address. The most common ones are:
 
-- **Option 003** — Default Gateway
-- **Option 006** — DNS Server
-- **Option 015** — DNS Domain Name
-- **Option 044** — WINS Server (legacy)
+- **Option 003** - Default Gateway
+- **Option 006** - DNS Server
+- **Option 015** - DNS Domain Name
+- **Option 044** - WINS Server (legacy)
 
 ---
 
